@@ -1,7 +1,7 @@
 
 # WEBIOME
 
-Webiome is a express app created using html, css, javascript and nodejs. it is a chat web app where you can communicate with others in rooms by sending your room code to other. it randomly generates a room code for you when you login inside the web app.
+Webiome is a express app created using html, css, javascript and nodejs. it is a chat web app where you can communicate with others in rooms by sending your room code to other. it randomly Create a room code for you when you login inside the web app.
 
 
 
